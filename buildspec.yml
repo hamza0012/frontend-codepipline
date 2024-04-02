@@ -8,7 +8,6 @@ phases:
     commands:
         # install npm
         - npm install -g n
-	      - n latest
        
   build:
     commands:
