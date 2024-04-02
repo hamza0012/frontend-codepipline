@@ -7,7 +7,7 @@ phases:
    
     commands:
         # install npm
-        - npm install -g n
+        - npm install -g --force npm
        
   build:
     commands:
