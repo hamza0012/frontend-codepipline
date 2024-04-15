@@ -9,4 +9,7 @@ nvm install node
 
 sudo yum install npm -y
 sudo yum install nginx -y
-ufw allow 'Nginx HTTP'
+sudo amazon-linux-extras install epel
+yum install --enablerepo="epel" ufw
+sudo ufw enable
+sudo ufw allow 'Nginx HTTP'
