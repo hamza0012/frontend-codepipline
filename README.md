@@ -1,3 +1,5 @@
+Ref: https://medium.com/@marcrinemm/building-a-ci-cd-pipeline-for-a-reactjs-app-using-aws-codepipeline-f8ba96c1edd5
+
 This project focuses on a critical aspect of the DevOps learning journey: implementing a CI/CD pipeline. As an aspiring engineer, I created a React application and recognized the value of establishing an automated deployment process through CI/CD.
 
 In my role as both a developer and a DevOps engineer, I’m well aware of the challenges associated with manual deployments. The process can become chaotic and consume valuable time. However, the introduction of CI/CD pipelines has revolutionized this landscape by offering developers the ability to seamlessly deploy their code changes. This not only simplifies the deployment process but also enhances efficiency, enabling a smoother and more reliable workflow.
